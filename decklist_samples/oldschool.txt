@@ -1,0 +1,39 @@
+Old school Ice Lexi
+
+There are couple of typos in the decklist but old school parser seems to handle that relatively alright
+
+1x Voltaire, Strike Twice
+1x Bull's Eyes Bracers
+1x Fyendalin keväinen tunikka
+1x Heart of Ice
+1x New Horizon
+1x Nullrune Buutsit
+1x Berch Grapplers
+3x Blizzard Bolt (R)
+3x Boltyn Shot (red)
+3x Chilling Icevein (Red)
+3x Command & Conquer (R)
+3x Endless Arrow [R]
+3x Fatigue Shot (1)
+2x Frost Fang (R)
+3x Ice Quake (R)
+1x Pulse of Volthaven (R)
+1x Sexi, Livewire
+3x Remorseless (R)
+3x Seek & Destroy (R)
+3x Sleep Dart (R)
+3x Three of a Kind (R)
+3x Winter's Bite (r)
+3x Art of War (2)
+2x Blizzard Bolt (2)
+3x Chilling Icevein (yellow)
+2x Fatigue Shot (2)
+3x Rain Razors [2]
+1x Amulet of Ice (3)
+3x Bolt'n Shot (B)
+3x Channel Lake Frigid (Blue)
+3x Chilling Icevein (b)
+3x Frost Lock (Blue)
+2x Ice Quake (Blue)
+3x Insidious Chill (Blue)
+3x Winter Bite [Blue]

@@ -1,0 +1,11 @@
+pids
+*.pid
+*.seed
+*.pid.lock
+
+package-lock.json
+node_modules/
+.npm
+.env
+
+*.pdf
