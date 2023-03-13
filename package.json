@@ -13,7 +13,7 @@
     "clipboardy": "^3.0.0",
     "closest-match": "^1.3.3",
     "command-line-args": "^5.2.1",
-    "command-line-usage": "^6.1.3",
+    "command-line-usage": "^7.0.1",
     "dotenv": "^16.0.3",
     "fab-cards": "latest",
     "inquirer": "^9.1.4",
